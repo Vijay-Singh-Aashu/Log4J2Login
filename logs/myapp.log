@@ -1,0 +1,4 @@
+2023-11-03 13:01:36,219 - com.excellence_log4j2.Test [processData] -(INFO) FROM INFO METHOD 
+2023-11-03 13:01:36,234 - com.excellence_log4j2.Test [processData] -(WARN) FROM WARN METHOD 
+2023-11-03 13:01:36,236 - com.excellence_log4j2.Test [processData] -(ERROR) FROM ERROR METHOD 
+2023-11-03 13:01:36,239 - com.excellence_log4j2.Test [processData] -(FATAL) FROM FATAL METHOD 
